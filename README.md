@@ -21,3 +21,7 @@ Tampilan aplikasi disusun menggunakan struktur hirarki sebagai berikut:
 
 4. Penjelasan Kenyamanan Baca (UX)
 Fokus desain ini adalah kemudahan bagi mahasiswa dan dosen dalam menyerap informasi. Dengan menggunakan Card yang bersih dan ruang kosong yang cukup, informasi utama seperti "Judul Workshop" langsung menjadi pusat perhatian. Penggunaan ikon juga mempercepat pemahaman visual pengguna saat mencari lokasi atau kuota.
+
+
+<img width="1541" height="953" alt="Screenshot 2026-05-06 215823" src="https://github.com/user-attachments/assets/07859f52-9993-4dc7-8091-68b723c3fc36" />
+
